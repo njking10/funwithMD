@@ -12,9 +12,10 @@ Now, let's have some fun!
 
 Create another section header, give it a name, and italicize the header.
 
+# *NBA*
 Who doesn't love a good meme? Either find or create a meme about data!
 * Post your meme as an image.
-
+! [image0](https://cdn.meme.am/instances/500x/47510205.jpg)
 Share a video from YouTube that we all shoudn't live without. 
 
 Create another section header, give it a name, and italicize the header.
