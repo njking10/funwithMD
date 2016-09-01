@@ -1,6 +1,3 @@
-Complete the following items using Markdown.
-
-Create a section header, call it "Definition", and italicize the header.
 
 # *Defintion*
 
