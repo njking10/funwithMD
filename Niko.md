@@ -2,11 +2,12 @@ Complete the following items using Markdown.
 
 Create a section header, call it "Definition", and italicize the header.
 
+# *Defintion*
 
-What is Markdown?
-  * Google it! Then, provide a definition as a block quote.
-  * Include a citation after the quote and turn it into a link. 
- 
+  
+ > Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
+
+Source: [Daring Fireball] (https://daringfireball.net/projects/markdown/)
 It's great for code! Take a command we learned to use in the terminal and share it. Hint: Instead of "python" or "javascript", we will use "sh" for shell.
   
  
